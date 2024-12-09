@@ -1,0 +1,21 @@
+,GIVEN_NAME,IUPAC_NAME,SMILES,MW,H_ACCEPTOR,H_DONOR,TPSA
+0,Propylene Glycol,Propylene Glycol,C(C(C)O)O,76.095,2.0,2.0,40.46
+1,Cetearyl Alcohol,"1-hexadecanol, compound with 1-octadecanol (1:1)","1-hexadecanol, compound with 1-octadecanol (1:1)",,,,
+2,Cyclopentasiloxane,decamethylcyclopentasiloxane,C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C,370.77500000000015,5.0,0.0,46.150000000000006
+3,Behentrimonium Chloride,"N,N,N-trimethyldocosan-1-aminium chloride",[Cl-].C[N+](CCCCCCCCCCCCCCCCCCCCCC)(C)C,404.1670000000003,0.0,0.0,0.0
+4,Panthenol,Panthenol,OCCCNC([C@H](O)C(C)(C)CO)=O,205.25399999999996,4.0,4.0,89.78999999999999
+5,Silk Amino Acids,L-Serine,N[C@@H](CO)C(=O)O,105.09299999999999,3.0,3.0,83.55
+6,Aloe Barbadensis Leaf Juice,(E)-1-(4-methylphenyl)-3-(3-nitrophenyl)prop-2-en-1-one,CC1=CC=C(C=C1)C(\C=C\C1=CC(=CC=C1)[N+](=O)[O-])=O,267.284,3.0,0.0,60.21
+7,Camellia Sinensis Leaf Extract,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)chroman-3-yl] 3,4,5-trihydroxybenzoate",OC=1C=C(C(=O)O[C@H]2[C@H](OC3=CC(=CC(=C3C2)O)O)C2=CC(=C(C(=C2)O)O)O)C=C(C1O)O,458.3750000000001,11.0,8.0,197.36999999999998
+8,Quaternium-80,dimethylsiloxane,C[Si]([O])C,74.155,0.0,0.0,19.9
+9,Butylene Glycol,"butane-1,3-diol",C(CC(C)O)O,90.12199999999999,2.0,2.0,40.46
+10,Phenoxyethanol,Phenoxyethanol,O(C1=CC=CC=C1)C(C)O,138.166,2.0,1.0,29.46
+11,Methylparaben,Methylparaben,COC(=O)C1=CC=C(O)C=C1,152.149,3.0,1.0,46.53
+12,Propylparaben,Propylparaben,C(CC)OC(=O)C1=CC=C(O)C=C1,180.203,3.0,1.0,46.53
+13,Ethylparaben,Ethylparaben,C(C)OC(=O)C1=CC=C(O)C=C1,166.176,3.0,1.0,46.53
+14,Citronellol,Citronellol,CC(C)=CCCC(C)CCO,156.269,1.0,1.0,20.23
+15,Hexyl Cinnamal,Hexyl Cinnamal,C(CCCCC)[C]C=CC1=CC=CC=C1,200.32500000000002,0.0,0.0,0.0
+16,Limonene,1-methyl-4-(1-methylethenyl)-cyclohexene,CC1=CCC(CC1)C(=C)C,136.238,0.0,0.0,0.0
+17,Linalool,Linalool,C=CC(O)(C)CCC=C(C)C,154.253,1.0,1.0,20.23
+18,Silk Amino Acids,L-Alanine,N[C@@H](C)C(=O)O,89.09399999999998,2.0,2.0,63.32000000000001
+19,Silk Amino Acids,Glycine,NCC(=O)O,75.067,2.0,2.0,63.32000000000001

@@ -1,17 +1,17 @@
-Water,Water
-Sodium Lauryl sulfate,Sodium Lauryl sulfate
-sodium laureth sulfate,sodium 2-(dodecyloxy)ethyl sulfate
-cocamidopropyl betaine,2-[3-(dodecanoylamino)propyl-dimethylazaniumyl]acetate
-panthenol,panthenol
-panthenyl ethyl ether,"(2R)-N-(3-ethoxypropyl)-2,4-dihydroxy-3,3-dimethylbutanamide"
-histidine,histidine
-sodium xylensulfonate,sodium xylensulfonate
-Hydroxypropyl,Hydroxypropyl
-Methylcellulose,"3,4,5-trimethoxy-2-(methoxymethyl)-6-{[4,5,6-trimethoxy-2-(methoxymethyl)oxan-3-yl]oxy}oxane"
-Sodium Chloride,Sodium Chloride
-Sodium Citrate,Sodium Citrate
-Sodium Benzoate,Sodium Benzoate
-Tetrasodium EDTA,"2,2',2'',2'''-(Ethane-1,2-diyldinitrilo)tetraacetic acid"
-Citric Acid,Citric Acid
-Methylchloroisothiazolinone,Methylchloroisothiazolinone
-Methylisothiazolinone,Methylisothiazolinone
+Water,Water,O
+Sodium Lauryl sulfate,Sodium Lauryl sulfate,S(=O)(=O)(OCCCCCCCCCCCC)[O-].[Na+]
+sodium laureth sulfate,sodium 2-(dodecyloxy)ethyl sulfate,S(=O)(=O)(OCCOCCCCCCCCCCCC)[O-].[Na+]
+cocamidopropyl betaine,2-[3-(dodecanoylamino)propyl-dimethylazaniumyl]acetate,C(CCCCCCCCCCC)(=O)NCCC[N+](CC(=O)[O-])(C)C
+panthenol,panthenol,OCCCNC([C@H](O)C(C)(C)CO)=O
+panthenyl ethyl ether,"(2R)-N-(3-ethoxypropyl)-2,4-dihydroxy-3,3-dimethylbutanamide",C(C)OCCCNC([C@@H](C(CO)(C)C)O)=O
+histidine,histidine,N[C@@H](CC1=CNC=N1)C(=O)O
+sodium xylensulfonate,sodium xylensulfonate,C1(C(C=CC=C1)C)(C)S(=O)(=O)[O-].[Na+]
+Hydroxypropyl,Hydroxypropyl,OCC[CH2]
+Methylcellulose,"3,4,5-trimethoxy-2-(methoxymethyl)-6-{[4,5,6-trimethoxy-2-(methoxymethyl)oxan-3-yl]oxy}oxane",COC1C(OC(C(C1OC)OC)OC1C(OC(C(C1OC)OC)OC)COC)COC
+Sodium Chloride,Sodium Chloride,[Cl-].[Na+]
+Sodium Citrate,Sodium Citrate,C(CC(O)(C(=O)[O-])CC(=O)[O-])(=O)[O-].[Na+].[Na+].[Na+]
+Sodium Benzoate,Sodium Benzoate,C(C1=CC=CC=C1)(=O)[O-].[Na+]
+Tetrasodium EDTA,"2,2',2'',2'''-(Ethane-1,2-diyldinitrilo)tetraacetic acid",C(CN(CC(=O)O)CC(=O)O)N(CC(=O)O)CC(=O)O
+Citric Acid,Citric Acid,C(CC(O)(C(=O)O)CC(=O)O)(=O)O
+Methylchloroisothiazolinone,Methylchloroisothiazolinone,CC1C(C(=NS1)Cl)=O
+Methylisothiazolinone,Methylisothiazolinone,CC1=NSCC1=O

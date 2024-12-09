@@ -1,21 +1,21 @@
-Water," water"
-Propylene Glycol,"Propylene Glycol"
-Cetearyl Alcohol,"1-hexadecanol, compound with 1-octadecanol (1:1)"
-Cyclopentasiloxane,"decamethylcyclopentasiloxane"
-Behentrimonium Chloride,"N,N,N-trimethyldocosan-1-aminium chloride"
-Panthenol,"Panthenol"
-Silk Amino Acids,"L-Serine"
-Aloe Barbadensis Leaf Juice,"(E)-1-(4-methylphenyl)-3-(3-nitrophenyl)prop-2-en-1-one"
-Camellia Sinensis Leaf Extract,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)chroman-3-yl] 3,4,5-trihydroxybenzoate"
-Quaternium-80,"dimethylsiloxane"
-Butylene Glycol,"butane-1,3-diol"
-Phenoxyethanol,"Phenoxyethanol"
-Methylparaben,"Methylparaben"
-Propylparaben,"Propylparaben"
-Ethylparaben,"Ethylparaben"
-Citronellol,"Citronellol"
-Hexyl Cinnamal,"Hexyl Cinnamal"
-Limonene,"1-methyl-4-(1-methylethenyl)-cyclohexene"
-Linalool,"Linalool"
-Silk Amino Acids,"L-Alanine"
-Silk Amino Acids,"Glycine"
+Water," water",O
+Propylene Glycol,"Propylene Glycol",C(C(C)O)O
+Cetearyl Alcohol,"1-hexadecanol, compound with 1-octadecanol (1:1)","1-hexadecanol, compound with 1-octadecanol (1:1)"
+Cyclopentasiloxane,"decamethylcyclopentasiloxane",C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C
+Behentrimonium Chloride,"N,N,N-trimethyldocosan-1-aminium chloride",[Cl-].C[N+](CCCCCCCCCCCCCCCCCCCCCC)(C)C
+Panthenol,"Panthenol",OCCCNC([C@H](O)C(C)(C)CO)=O
+Silk Amino Acids,"L-Serine",N[C@@H](CO)C(=O)O
+Aloe Barbadensis Leaf Juice,"(E)-1-(4-methylphenyl)-3-(3-nitrophenyl)prop-2-en-1-one",CC1=CC=C(C=C1)C(\C=C\C1=CC(=CC=C1)[N+](=O)[O-])=O
+Camellia Sinensis Leaf Extract,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)chroman-3-yl] 3,4,5-trihydroxybenzoate",OC=1C=C(C(=O)O[C@H]2[C@H](OC3=CC(=CC(=C3C2)O)O)C2=CC(=C(C(=C2)O)O)O)C=C(C1O)O
+Quaternium-80,"dimethylsiloxane",C[Si]([O])C
+Butylene Glycol,"butane-1,3-diol",C(CC(C)O)O
+Phenoxyethanol,"Phenoxyethanol",O(C1=CC=CC=C1)C(C)O
+Methylparaben,"Methylparaben",COC(=O)C1=CC=C(O)C=C1
+Propylparaben,"Propylparaben",C(CC)OC(=O)C1=CC=C(O)C=C1
+Ethylparaben,"Ethylparaben",C(C)OC(=O)C1=CC=C(O)C=C1
+Citronellol,"Citronellol",CC(C)=CCCC(C)CCO
+Hexyl Cinnamal,"Hexyl Cinnamal",C(CCCCC)[C]C=CC1=CC=CC=C1
+Limonene,"1-methyl-4-(1-methylethenyl)-cyclohexene",CC1=CCC(CC1)C(=C)C
+Linalool,"Linalool",C=CC(O)(C)CCC=C(C)C
+Silk Amino Acids,"L-Alanine",N[C@@H](C)C(=O)O
+Silk Amino Acids,"Glycine",NCC(=O)O

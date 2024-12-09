@@ -1,29 +1,28 @@
-Water (Aqua),Water
-Cocamidopropyl Betaine,2-{3-(dodecanamido)propylammonio}acetate
-Dimethiconol,Dimethylsilanediol
-Glycol Distearate,Dimethylsilanediol
-Hydroxypropyltrimonium Chloride,2-{2-hydroxy-3-[(trimethyl)ammonio]propoxy}ethanol
-Cocamide MEA,N-(2-hydroxyethyl)dodecanamide
-Cocos Nucifera (Coconut) Oil,1-Decanoyloxy-3-octanoyloxypropan-2-yl dodecanoate
-Butylcarbamate,Butylcarbamate
-Limonene,1-methyl-4-(1-methylethenyl)-cyclohexene
-Sodium C12-13 Pareth Sulfate,"poly(oxy-1,2-ethanediyl)"
-Sodium Gluconate,Sodium Gluconate
-Citric Acid,Citric Acid
-Carbomer,poly(1-carboxyethylene)
-PPG-9,2-(2-hydroxypropoxy)propan-1-ol
-Disodium EDTA,disodium dihydrogen ethylenediaminetetraacetate
-Hydrolyzed Soy Protein,"Protein hydrolysates, soya"
-Benzyl Salicylate,Benzyl Salicylate
-Linalool,Linalool
-Sodium Benzoate,Sodium Benzoate
-Sodium Chloride,Sodium Chloride
-Sodium Laureth Sulfate,sodium 2-(dodecyloxy)ethyl sulfate
-TEADodecylbenzenesulfonate,dodecylbenzenesulphonic acid
-PEG-45M,poly(oxyethylene)
-Iodopropynyl,Iodopropynyl
-Citronellol,Citronellol
-Glycerin,Glycerin
-Guar,2-hydroxypropyl ether
-Hexyl Cinnamal,Hexyl Cinnamal
-Titanium Dioxide (CI 77891).,Titanium dioxide
+Water (Aqua),Water,O
+Cocamidopropyl Betaine,2-{3-(dodecanamido)propylammonio}acetate,C(CCCCCCCCCCC)(=O)NCCC[NH2+]CC(=O)[O-]
+Dimethiconol,Dimethylsilanediol,C[Si](O)(O)C
+Glycol Distearate,Dimethylsilanediol,C[Si](O)(O)C
+Hydroxypropyltrimonium Chloride,2-{2-hydroxy-3-[(trimethyl)ammonio]propoxy}ethanol,OC(COCCO)C[N+](C)(C)C
+Cocamide MEA,N-(2-hydroxyethyl)dodecanamide,OCCNC(CCCCCCCCCCC)=O
+Cocos Nucifera (Coconut) Oil,1-Decanoyloxy-3-octanoyloxypropan-2-yl dodecanoate,C(CCCCCCCCCCC)(=O)OC(COC(CCCCCCCCC)=O)COC(CCCCCCC)=O
+Butylcarbamate,Butylcarbamate,C(CCC)NC([O-])=O
+Limonene,1-methyl-4-(1-methylethenyl)-cyclohexene,CC1=CCC(CC1)C(=C)C
+Sodium C12-13 Pareth Sulfate,"poly(oxy-1,2-ethanediyl)",O(CC[*:2])[*:1]
+Sodium Gluconate,Sodium Gluconate,O=C([C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO)[O-].[Na+]
+Citric Acid,Citric Acid,C(CC(O)(C(=O)O)CC(=O)O)(=O)O
+Carbomer,poly(1-carboxyethylene),C(=O)(O)C(C[*:2])[*:1]
+PPG-9,2-(2-hydroxypropoxy)propan-1-ol,OC(COC(CO)C)C
+Disodium EDTA,disodium dihydrogen ethylenediaminetetraacetate,C(CN(CC(=O)O)CC(=O)O)N(CC(=O)[O-])CC(=O)[O-].[Na+].[Na+]
+Benzyl Salicylate,Benzyl Salicylate,C(C=1C(O)=CC=CC1)(=O)OCC1=CC=CC=C1
+Linalool,Linalool,C=CC(O)(C)CCC=C(C)C
+Sodium Benzoate,Sodium Benzoate,C(C1=CC=CC=C1)(=O)[O-].[Na+]
+Sodium Chloride,Sodium Chloride,[Cl-].[Na+]
+Sodium Laureth Sulfate,sodium 2-(dodecyloxy)ethyl sulfate,S(=O)(=O)(OCCOCCCCCCCCCCCC)[O-].[Na+]
+TEADodecylbenzenesulfonate,dodecylbenzenesulphonic acid,C(CCCCCCCCCCC)C1=C(C=CC=C1)S(=O)(=O)O
+PEG-45M,poly(oxyethylene),O(CC[*:2])[*:1]
+Iodopropynyl,Iodopropynyl,ICC#[C]
+Citronellol,Citronellol,CC(C)=CCCC(C)CCO
+Glycerin,Glycerin,OCC(O)CO
+Guar,2-hydroxypropyl ether,OC(COCC(C)O)C
+Hexyl Cinnamal,Hexyl Cinnamal,C(CCCCC)[C]C=CC1=CC=CC=C1
+Titanium Dioxide (CI 77891).,Titanium dioxide,[O-2].[O-2].[Ti+4]

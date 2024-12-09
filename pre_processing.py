@@ -26,11 +26,11 @@ def calculate_descriptor(smiles, descriptor_func):
     
 def main():
 
-    product_file = "data/raw/dove_damage_therapy_intensive_repair_shampoo.csv"
+    product_file = "data/raw/pantene_pro_v_volume_&_body_shampoo.csv"
     df = pd.read_csv(product_file)
-    df.columns = ["IUPAC_NAME", "GIVEN_NAME"]
+    df.columns = [ "GIVEN_NAME", "IUPAC_NAME","SMILES"]
 
-    df['SMILES'] = df['IUPAC_NAME'].apply(lambda x: name_to_smiles(x))
+    #df['SMILES'] = df['IUPAC_NAME'].apply(lambda x: name_to_smiles(x))
 
     mol_weight = partial(calculate_descriptor, descriptor_func=Descriptors.MolWt)
     h_acceptor = partial(calculate_descriptor, descriptor_func=Descriptors.NumHAcceptors)

@@ -1,15 +1,15 @@
-water,water
-cetearyl alcohol,"1-hexadecanol, compound with 1-octadecanol (1:1)"
-cetyl alcohol,cetyl alcohol
-propylene glycol,propylene glycol
-behentrimonium chloride,"N,N,N-trimethyldocosan-1-aminium chloride"
-dimethicone,polydimethylsiloxane
-panthenol,panthenol
-cetrimonium chloride,"1-hexadecanaminium, N,N,N-trimethyl-, chloride"
-ethylhexylglycerin,ethylhexylglycerin
-tocopheryl acetate,"(2R)-2,5,7,8-Tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydro-2H-1-benzopyran-6-yl acetate"
-phenoxyethanol,phenoxyethanol
-chlorphenesin,"3-(4-chlorophenoxy)propane-1,2-diol"
-sodium benzoate,sodium benzoate
-citric acid,citric acid
-ascorbic acid,ascorbic acid
+water,water,O
+cetearyl alcohol,"1-hexadecanol, compound with 1-octadecanol (1:1)",C(CCCCCCCCCCCCCCCCC)O.C(CCCCCCCCCCCCCCC)O
+cetyl alcohol,cetyl alcohol,C(CCCCCCCCCCCCCCC)O
+propylene glycol,propylene glycol,C(C(C)O)O
+behentrimonium chloride,"N,N,N-trimethyldocosan-1-aminium chloride",[Cl-].C[N+](CCCCCCCCCCCCCCCCCCCCCC)(C)C
+dimethicone,polydimethylsiloxane,C[Si](O[*:2])(C)[*:1]
+panthenol,panthenol,OCCCNC([C@H](O)C(C)(C)CO)=O
+cetrimonium chloride,"1-hexadecanaminium, N,N,N-trimethyl-, chloride",[Cl-].C[N+](CCCCCCCCCCCCCCCC)(C)C
+ethylhexylglycerin,ethylhexylglycerin,C(C)C(O)(C(O)CO)CCCCCC
+tocopheryl acetate,"(2R)-2,5,7,8-Tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydro-2H-1-benzopyran-6-yl acetate",C(C)(=O)OC=1C(=C(C2=C(CC[C@](O2)(CCC[C@@H](CCC[C@@H](CCCC(C)C)C)C)C)C1C)C)C
+phenoxyethanol,phenoxyethanol,O(C1=CC=CC=C1)C(C)O
+chlorphenesin,"3-(4-chlorophenoxy)propane-1,2-diol",ClC1=CC=C(OCC(CO)O)C=C1
+sodium benzoate,sodium benzoate,C(C1=CC=CC=C1)(=O)[O-].[Na+]
+citric acid,citric acid,C(CC(O)(C(=O)O)CC(=O)O)(=O)O
+ascorbic acid,ascorbic acid,O=C1C(O)=C(O)[C@H](O1)[C@@H](O)CO
