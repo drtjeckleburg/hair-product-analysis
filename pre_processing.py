@@ -26,7 +26,7 @@ def calculate_descriptor(smiles, descriptor_func):
     
 def main():
 
-    product_file = "data/raw/amika_perk_up_dry_shampoo.csv"
+    product_file = "data/raw/dove_damage_therapy_intensive_repair_shampoo.csv"
     df = pd.read_csv(product_file)
     df.columns = ["IUPAC_NAME", "GIVEN_NAME"]
 

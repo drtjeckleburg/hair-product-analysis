@@ -1,17 +1,15 @@
-Name,SMILES,SMILES_STANDARDIZED
-water,O,
-cetearyl alcohol,CCCCCCCCCCCCCCCCCCO.CCCCCCCCCCCCCCCCO,
-cetyl alcohol,CCCCCCCCCCCCCCCCO,
-propylene glycol,CC(CO)O,
-behentrimonium chloride,CCCCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],
-simmondsia chinensis (jojoba) seed oil,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCCCCCCC=CCCCCCCCCCC,
-dimethicone,C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C,
-panthenol,CC(C)(CO)C(C(=O)NCCCO)O,
-cetrimonium chloride,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],
-ethylhexylglycerin,CCCCC(CC)COCC(CO)O,
-tocopheryl acetate,CC1=C(C(=C(C2=C1OC(CC2)(C)CCCC(C)CCCC(C)CCCC(C)C)C)OC(=O)C)C,
-phenoxyethanol,C1=CC=C(C=C1)OCCO,
-chlorphenesin,C1=CC(=CC=C1OCC(CO)O)Cl,
-sodium benzoate,C1=CC=C(C=C1)C(=O)[O-].[Na+],
-citric acid,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,
-ascorbic acid,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,
+water,water
+cetearyl alcohol,"1-hexadecanol, compound with 1-octadecanol (1:1)"
+cetyl alcohol,cetyl alcohol
+propylene glycol,propylene glycol
+behentrimonium chloride,"N,N,N-trimethyldocosan-1-aminium chloride"
+dimethicone,polydimethylsiloxane
+panthenol,panthenol
+cetrimonium chloride,"1-hexadecanaminium, N,N,N-trimethyl-, chloride"
+ethylhexylglycerin,ethylhexylglycerin
+tocopheryl acetate,"(2R)-2,5,7,8-Tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydro-2H-1-benzopyran-6-yl acetate"
+phenoxyethanol,phenoxyethanol
+chlorphenesin,"3-(4-chlorophenoxy)propane-1,2-diol"
+sodium benzoate,sodium benzoate
+citric acid,citric acid
+ascorbic acid,ascorbic acid
